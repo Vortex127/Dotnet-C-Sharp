@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mirza\\.nuget\\packages\\": {}
+    "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\C#\\firstapp\\firstapp.csproj",
+      "projectUniqueName": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
       "projectName": "firstapp",
-      "projectPath": "C:\\Programming\\C#\\firstapp\\firstapp.csproj",
-      "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\C#\\firstapp\\obj\\",
+      "projectPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
+      "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\initials\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
