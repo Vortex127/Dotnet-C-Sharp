@@ -1,0 +1,15 @@
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\bin\Debug\net9.0\intermediate.exe
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\bin\Debug\net9.0\intermediate.deps.json
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\bin\Debug\net9.0\intermediate.runtimeconfig.json
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\bin\Debug\net9.0\intermediate.dll
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\bin\Debug\net9.0\intermediate.pdb
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.AssemblyInfoInputs.cache
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.AssemblyInfo.cs
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.csproj.CoreCompileInputs.cache
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.sourcelink.json
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.dll
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\refint\intermediate.dll
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.pdb
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\intermediate.genruntimeconfig.cache
+c:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\intermediate\obj\Debug\net9.0\ref\intermediate.dll
