@@ -1,0 +1,15 @@
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\bin\Debug\net9.0\high.exe
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\bin\Debug\net9.0\high.deps.json
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\bin\Debug\net9.0\high.runtimeconfig.json
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\bin\Debug\net9.0\high.dll
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\bin\Debug\net9.0\high.pdb
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.AssemblyInfoInputs.cache
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.AssemblyInfo.cs
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.csproj.CoreCompileInputs.cache
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.sourcelink.json
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.dll
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\refint\high.dll
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.pdb
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\high.genruntimeconfig.cache
+C:\Users\Asfandyar.Baig\Desktop\Work\Dotnet-C-Sharp\high\obj\Debug\net9.0\ref\high.dll
