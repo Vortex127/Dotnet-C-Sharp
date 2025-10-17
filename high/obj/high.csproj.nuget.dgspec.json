@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\high.csproj": {}
+    "D:\\Work\\Dotnet-C-Sharp\\high\\high.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\high.csproj": {
+    "D:\\Work\\Dotnet-C-Sharp\\high\\high.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
+        "projectUniqueName": "D:\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
         "projectName": "high",
-        "projectPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
+        "projectPath": "D:\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
         "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\obj\\",
+        "outputPath": "D:\\Work\\Dotnet-C-Sharp\\high\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
+      "projectUniqueName": "d:\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
       "projectName": "high",
-      "projectPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
+      "projectPath": "d:\\Work\\Dotnet-C-Sharp\\high\\high.csproj",
       "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\high\\obj\\",
+      "outputPath": "d:\\Work\\Dotnet-C-Sharp\\high\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"

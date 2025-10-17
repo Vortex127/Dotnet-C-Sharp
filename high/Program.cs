@@ -25,7 +25,9 @@ namespace CorePractice
 
             int[,] numbers = { { 1, 2, 3 }, { 4, 5, 6 } };
             Console.WriteLine(numbers.Rank); // gives number of dimensions
-            Console.WriteLine(numbers[0,2]);
+            Console.WriteLine(numbers[0, 2]);
+
+            
         }
     }
 }
@@ -46,3 +48,20 @@ namespace CorePractice
 //             }
 // Console.WriteLine("The reversed array is: " + String.Join(", ", temp));
 
+// basic fallback
+string name = null;
+string display = name ?? "Unknown";
+Console.WriteLine(display); // "Unknown"
+
+// nullable value type
+int? maybe = null;
+int value = maybe ?? 0;     // value = 0
+
+// null-coalescing assignment
+string s = null;
+s ??= "initialized";
+Console.WriteLine(s); // "initialized"
+
+// combined with null-conditional
+Person p = null;
+string city = p?.Address?.City ?? "No city specified";

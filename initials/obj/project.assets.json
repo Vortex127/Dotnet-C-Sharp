@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
+      "projectUniqueName": "D:\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
       "projectName": "firstapp",
-      "projectPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
+      "projectPath": "D:\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
       "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\initials\\obj\\",
+      "outputPath": "D:\\Work\\Dotnet-C-Sharp\\initials\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"

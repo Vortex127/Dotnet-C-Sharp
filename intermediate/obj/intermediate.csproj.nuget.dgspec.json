@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {}
+    "D:\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {
+    "D:\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
+        "projectUniqueName": "D:\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
         "projectName": "intermediate",
-        "projectPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
+        "projectPath": "D:\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
         "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asfandyar.Baig\\Desktop\\Work\\Dotnet-C-Sharp\\intermediate\\obj\\",
+        "outputPath": "D:\\Work\\Dotnet-C-Sharp\\intermediate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"
