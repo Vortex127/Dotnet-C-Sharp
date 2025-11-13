@@ -1,0 +1,15 @@
+c:\Programming\Dotnet-C-Sharp\methods\bin\Debug\net9.0\methods.exe
+c:\Programming\Dotnet-C-Sharp\methods\bin\Debug\net9.0\methods.deps.json
+c:\Programming\Dotnet-C-Sharp\methods\bin\Debug\net9.0\methods.runtimeconfig.json
+c:\Programming\Dotnet-C-Sharp\methods\bin\Debug\net9.0\methods.dll
+c:\Programming\Dotnet-C-Sharp\methods\bin\Debug\net9.0\methods.pdb
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.AssemblyInfoInputs.cache
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.AssemblyInfo.cs
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.csproj.CoreCompileInputs.cache
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.sourcelink.json
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.dll
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\refint\methods.dll
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.pdb
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\methods.genruntimeconfig.cache
+c:\Programming\Dotnet-C-Sharp\methods\obj\Debug\net9.0\ref\methods.dll
