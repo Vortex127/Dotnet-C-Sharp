@@ -1,0 +1,121 @@
+﻿using System;
+using System.Dynamic;
+using System.Net;
+
+namespace PublicExample
+{
+    // public class example Program
+
+    // class Rectangle
+    // {
+    //     public double length;
+    //     public double width;
+
+    //     public double getArea()
+    //     {
+    //         return length * width;
+    //     }
+
+    //     public void Display()
+    //     {
+    //         Console.WriteLine($"Length: {length}");
+    //         Console.WriteLine($"Width: {width}");
+    //         Console.WriteLine($"Area: {getArea()}");
+    //     }
+    // }
+
+    // class ExecuteRectangle
+    // {
+    //     static void Main(string[] args)
+    //     {
+    //         Rectangle r = new Rectangle();
+    //         r.length = 10;
+    //         r.width = 5;
+    //         r.Display();
+    //         Console.ReadLine();
+    //     }
+    // }
+
+    // private example below:
+    // class Rectangle
+    // {
+    //     private double length;
+    //     private double width;
+
+    //     public void AcceptDetails()
+    //     {
+    //         Console.WriteLine("Enter Length: ");
+    //         length = Convert.ToDouble(Console.ReadLine());
+    //         Console.WriteLine("Enter Width: ");
+    //         width = Convert.ToDouble(Console.ReadLine());
+    //     }
+
+    //     public double GetArea()
+    //     {
+    //         return length * width;
+    //     }
+
+    //     public void Display()
+    //     {
+    //         Console.WriteLine($"Length: {length}");
+    //         Console.WriteLine($"Width: {width}");
+    //         Console.WriteLine($"Area: {GetArea()}");
+    //     }
+    // }
+
+    // class ExecuteRectangle
+    // {
+    //     static void Main(string[] args)
+    //     {
+    //         Rectangle r = new Rectangle();
+    //         r.AcceptDetails();
+    //         r.Display();
+    //         Console.ReadLine();
+    //     }
+    // }
+
+    class Shapes
+    {
+        public string? name { get; set; }
+    }
+
+    class Person
+    {
+        public string Name { get; set; }
+
+        public void ChangePerson(Person p) //if public isn't defined then by default it's private
+        {
+            p.Name = "Sudhir"; // modifies same object
+        }
+
+    }
+
+    class Exec
+    {
+        static void Main(string[] args)
+        {
+            // Shapes s = new Shapes();
+            // s.name = "Square";
+            // Console.WriteLine(s.name);
+            // GetSetOption o = new GetSetOption();
+            // o.Nname = "";
+            // Console.WriteLine(o.Nname);
+            Person p = new Person();
+            p.Name = "Ali";
+            Console.WriteLine(p.Name);
+            p.ChangePerson(p);
+            Console.WriteLine(p.Name);
+        }
+    }
+
+        // class GetSetOption
+        // {
+        //     private string name;
+
+        //     public string Nname
+        //     {
+        //         get => name;
+        //         set => name = !string.IsNullOrWhiteSpace(value) ? value : throw new ArgumentException("Name cannot be null or whitespace.");
+        //     }
+        // }
+    } 

@@ -1,0 +1,15 @@
+C:\Programming\Dotnet-C-Sharp\OOP\bin\Debug\net9.0\OOP.exe
+C:\Programming\Dotnet-C-Sharp\OOP\bin\Debug\net9.0\OOP.deps.json
+C:\Programming\Dotnet-C-Sharp\OOP\bin\Debug\net9.0\OOP.runtimeconfig.json
+C:\Programming\Dotnet-C-Sharp\OOP\bin\Debug\net9.0\OOP.dll
+C:\Programming\Dotnet-C-Sharp\OOP\bin\Debug\net9.0\OOP.pdb
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.AssemblyInfoInputs.cache
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.AssemblyInfo.cs
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.csproj.CoreCompileInputs.cache
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.sourcelink.json
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.dll
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\refint\OOP.dll
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.pdb
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\OOP.genruntimeconfig.cache
+C:\Programming\Dotnet-C-Sharp\OOP\obj\Debug\net9.0\ref\OOP.dll
