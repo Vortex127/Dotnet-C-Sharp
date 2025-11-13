@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\": {}
+    "C:\\Users\\mirza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
+      "projectUniqueName": "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
       "projectName": "intermediate",
-      "projectPath": "D:\\Work\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
-      "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Dotnet-C-Sharp\\intermediate\\obj\\",
+      "projectPath": "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
+      "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
+      "outputPath": "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

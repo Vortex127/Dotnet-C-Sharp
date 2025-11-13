@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj": {}
+    "C:\\Programming\\Dotnet-C-Sharp\\initials\\firstapp.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj": {
+    "C:\\Programming\\Dotnet-C-Sharp\\initials\\firstapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
+        "projectUniqueName": "C:\\Programming\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
         "projectName": "firstapp",
-        "projectPath": "D:\\Work\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
-        "packagesPath": "C:\\Users\\Asfandyar.Baig\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Dotnet-C-Sharp\\initials\\obj\\",
+        "projectPath": "C:\\Programming\\Dotnet-C-Sharp\\initials\\firstapp.csproj",
+        "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Dotnet-C-Sharp\\initials\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asfandyar.Baig\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
