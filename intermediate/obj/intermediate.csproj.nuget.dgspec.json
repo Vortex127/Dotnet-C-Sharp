@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {}
+    "c:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {
+    "c:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
+        "projectUniqueName": "c:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
         "projectName": "intermediate",
-        "projectPath": "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
+        "projectPath": "c:\\Programming\\Dotnet-C-Sharp\\intermediate\\intermediate.csproj",
         "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\Dotnet-C-Sharp\\intermediate\\obj\\",
+        "outputPath": "c:\\Programming\\Dotnet-C-Sharp\\intermediate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"

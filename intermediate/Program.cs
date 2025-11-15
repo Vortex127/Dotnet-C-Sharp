@@ -1,4 +1,6 @@
 ﻿
+using System.Text;
+
 namespace Intermediate
 {
     class Program
@@ -16,14 +18,11 @@ namespace Intermediate
             // Console.WriteLine("The text is: " + txt.ToUpper());
             // Console.WriteLine("The text is: " + txt.ToLower());
 
-for (int i = 0; i < 10; i++) 
-{
-                if (i == 4)
-                {
-                    continue; // skips 4, break = stops at 4
-  }
-  Console.WriteLine(i);
-}
+            StringBuilder sb = new StringBuilder("My name ");
+            sb.Append(" Asfandyar");
+            sb.Insert(8, "is");
+
+            Console.WriteLine(sb.ToString());
         }
     }
 }
