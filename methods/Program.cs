@@ -7,20 +7,20 @@ namespace Methods_Apps
     {
         //this below example is for pass by value
 
-        // void changeNumber(int num)
-        // {
-        //     num = 10;
-        // }
+        void changeNumber(int num)
+        {
+            num = 10;
+        }
 
-        // static void Main(string[] args)
-        // {
-        //     int x = 5;
-        //     Methods m = new Methods();
-        //     m.changeNumber(x);
-        //     Console.WriteLine(x);
-        // }
+        static void Main(string[] args)
+        {
+            int x = 5;
+            Methods m = new Methods();
+            m.changeNumber(x);
+            Console.WriteLine(x);
+        }
 
-        //this below example is for pass by reference
+        // this below example is for pass by reference
 
         // void changeNumber(ref int num)
         // {
@@ -48,18 +48,18 @@ namespace Methods_Apps
         //     Console.WriteLine(num2);
         // }
 
-        int checking (in int a, in int b)
-        {
-            return a*b;
-        }
+    //     int checking (in int a, in int b)
+    //     {
+    //         return a*b;
+    //     }
 
-        static void Main(string[] args)
-        {
-            Methods m = new Methods();
-            int a = 10;
-            int b = 10;
-            int res = m.checking(in a, in b);
-            Console.WriteLine(res);
-        }
+    //     static void Main(string[] args)
+    //     {
+    //         Methods m = new Methods();
+    //         int a = 10;
+    //         int b = 10;
+    //         int res = m.checking(in a, in b);
+    //         Console.WriteLine(res);
+    //     }
     }
 }

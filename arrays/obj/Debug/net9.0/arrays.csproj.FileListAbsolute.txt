@@ -1,0 +1,15 @@
+c:\Programming\Dotnet-C-Sharp\arrays\bin\Debug\net9.0\arrays.exe
+c:\Programming\Dotnet-C-Sharp\arrays\bin\Debug\net9.0\arrays.deps.json
+c:\Programming\Dotnet-C-Sharp\arrays\bin\Debug\net9.0\arrays.runtimeconfig.json
+c:\Programming\Dotnet-C-Sharp\arrays\bin\Debug\net9.0\arrays.dll
+c:\Programming\Dotnet-C-Sharp\arrays\bin\Debug\net9.0\arrays.pdb
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.AssemblyInfoInputs.cache
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.AssemblyInfo.cs
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.csproj.CoreCompileInputs.cache
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.sourcelink.json
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.dll
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\refint\arrays.dll
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.pdb
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\arrays.genruntimeconfig.cache
+c:\Programming\Dotnet-C-Sharp\arrays\obj\Debug\net9.0\ref\arrays.dll

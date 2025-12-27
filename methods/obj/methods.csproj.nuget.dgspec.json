@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programming\\Dotnet-C-Sharp\\methods\\methods.csproj": {}
+    "C:\\Programming\\Dotnet-C-Sharp\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "c:\\Programming\\Dotnet-C-Sharp\\methods\\methods.csproj": {
+    "C:\\Programming\\Dotnet-C-Sharp\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programming\\Dotnet-C-Sharp\\methods\\methods.csproj",
-        "projectName": "methods",
-        "projectPath": "c:\\Programming\\Dotnet-C-Sharp\\methods\\methods.csproj",
+        "projectUniqueName": "C:\\Programming\\Dotnet-C-Sharp\\Methods\\Methods.csproj",
+        "projectName": "Methods",
+        "projectPath": "C:\\Programming\\Dotnet-C-Sharp\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
-        "outputPath": "c:\\Programming\\Dotnet-C-Sharp\\methods\\obj\\",
+        "outputPath": "C:\\Programming\\Dotnet-C-Sharp\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"
