@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj": {}
+    "c:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj": {
+    "c:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj",
+        "projectUniqueName": "c:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj",
         "projectName": "structs",
-        "projectPath": "C:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj",
+        "projectPath": "c:\\Programming\\Dotnet-C-Sharp\\structs\\structs.csproj",
         "packagesPath": "C:\\Users\\mirza\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\Dotnet-C-Sharp\\structs\\obj\\",
+        "outputPath": "c:\\Programming\\Dotnet-C-Sharp\\structs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirza\\AppData\\Roaming\\NuGet\\NuGet.Config"

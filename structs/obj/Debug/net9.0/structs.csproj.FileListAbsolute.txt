@@ -1,0 +1,15 @@
+c:\Programming\Dotnet-C-Sharp\structs\bin\Debug\net9.0\structs.exe
+c:\Programming\Dotnet-C-Sharp\structs\bin\Debug\net9.0\structs.deps.json
+c:\Programming\Dotnet-C-Sharp\structs\bin\Debug\net9.0\structs.runtimeconfig.json
+c:\Programming\Dotnet-C-Sharp\structs\bin\Debug\net9.0\structs.dll
+c:\Programming\Dotnet-C-Sharp\structs\bin\Debug\net9.0\structs.pdb
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.AssemblyInfoInputs.cache
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.AssemblyInfo.cs
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.csproj.CoreCompileInputs.cache
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.sourcelink.json
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.dll
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\refint\structs.dll
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.pdb
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\structs.genruntimeconfig.cache
+c:\Programming\Dotnet-C-Sharp\structs\obj\Debug\net9.0\ref\structs.dll
